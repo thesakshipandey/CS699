@@ -34,3 +34,22 @@ links_small.csv
 movies_metadata.csv
 ratings.csv
 ratings_small.csv
+
+##### Commands for installing all dependencies are given below. 
+
+```
+nltk:             $ sudo pip install nltk
+numpy:            $ sudo pip install numpy
+scipy:            $ sudo pip install scipy
+scikit-learn:     $ sudo pip install -U scikit-learn
+scikit-surprise:  $ sudo pip install scikit-surprise
+Pandas:           $ sudo pip install pandas
+matplotlib: 
+                  $ sudo apt-get install libfreetype6-dev libpng-dev
+                  $ sudo pip install matplotlib 
+seaborn:          $ sudo pip install seaborn
+jupyter notebook: $ sudo apt-get -y install ipython ipython-notebook
+                  $ sudo -H pip install jupyter
+jupyter lab       $ sudo pip install jupyterlab
+textblob          $ sudo pip install textblob
+```    
