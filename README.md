@@ -34,3 +34,26 @@ links_small.csv
 movies_metadata.csv
 ratings.csv
 ratings_small.csv
+
+## Install dependencies
+
+
+#### Linux OS (Ubuntu 16.04 LTS / Ubuntu 17.10)
+
+
+##### Commands for installing pip package manager for ⁠ python3 ⁠
+
+Step 1: $ sudo apt-get -y install python3-pip
+Step 2: $ sudo pip3 install --upgrade pip
+Step 3: $ pip3 --version
+
+
+##### Commands for installing pip package manager for ⁠ python2 ⁠
+Step 1: $ sudo apt-get -y install python-pip
+Step 2: $ sudo pip2 install --upgrade pip 
+               OR 
+        $ sudo pip install --upgrade pip
+
+Step 3: $ pip2 --version
+              OR
+        $ pip --version
