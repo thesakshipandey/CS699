@@ -120,7 +120,7 @@ seaborn:          $ sudo pip install seaborn
 jupyter notebook: $ sudo apt-get -y install ipython ipython-notebook
                   $ sudo -H pip install jupyter
 jupyter lab       $ sudo pip install jupyterlab
-textblob          $ sudo pip install textblob
+textblob          $ sudo pip install textblob..
 ```    
 ##### Commands for installing pip package manager for ⁠ python2 ⁠
 Step 1: $ sudo apt-get -y install python-pip
