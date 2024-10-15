@@ -27,6 +27,7 @@ All the information related to dataset is described in this section.
 * Users were selected at random for inclusion. All selected users had rated at least 20 movies. No demographic information is included. Each user is represented by an id, and no other information is provided.
 
 * The data are contained in the following files.
+
 credits.csv
 keywords.csv
 links.csv
@@ -34,3 +35,38 @@ links_small.csv
 movies_metadata.csv
 ratings.csv
 ratings_small.csv
+
+ 
+More details about the contents and use of all these files is given in README.txt
+
+### Download dataset 
+In-case, there is need to download dataset then use either of the given links.
+* If you wnat to download MovieLens dataset hosted on Kaggle then use [this link](https://www.kaggle.com/rounakbanik/the-movies-dataset/data)
+* If you want to download MovieLens dataset from its official website then use [this link](https://grouplens.org/datasets/movielens/latest/)
+
+
+### List of other dataset
+
+* MovieLens - Movie Recommendation Data Sets [link](https://grouplens.org/datasets/movielens/)
+* Netflix Prize Dataset [link](http://academictorrents.com/details/9b13183dc4d60676b773c9e2cd6de5e5542cee9a)
+* Yahoo! - Movie, Music, and Images Ratings Data Sets [link](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r)
+* Cornell University - Movie-review data for use in sentiment-analysis experiments [link](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
+* MovieTweetings - [link](https://github.com/sidooms/MovieTweetings)
+
+
+## Dependencies
+
+* Python >=3.5
+* pandas
+* numpy
+* scipy
+* scikit-learn
+* scikit-surprise
+* lightfm
+* matplotlib
+* seaborn
+* jupyter notebook
+* jupyter lab
+* textblob
+
+
